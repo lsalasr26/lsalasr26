@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-### Hola, soy Luis - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+### Hola, soy Luis <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <!--
 **lsalasr26/lsalasr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
