@@ -2,7 +2,10 @@
 
 <h1 align="center">Hola, soy Luis Salas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></h1>
 
-
+<div align="center" style="background-color:black;">
+  <h1>Hola, soy Luis Salas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></h1>
+  <p>Email para contactarme: <a href="mailto:luis.salas@example.com" style="color:white;">luis.salas@example.com</a></p>
+</div>
 
 <!--
 **lsalasr26/lsalasr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
